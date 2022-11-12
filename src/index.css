@@ -84,7 +84,8 @@
     @apply flex flex-col 
     bg-gray-300 dark:bg-gray-700
     m-0 
-    h-full w-full 
+    w-full 
+    h-screen
     overflow-hidden;
   }
 
